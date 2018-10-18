@@ -1,2 +1,2 @@
 # PrismaTechno
-A simple website
+The repository of Prisma Techno website.
